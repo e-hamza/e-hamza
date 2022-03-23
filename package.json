@@ -1,0 +1,23 @@
+{
+  "name": "e-hamza",
+  "version": "1.0.0",
+  "description": "My Github's profile README!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-hamza/e-hamza.git"
+  },
+  "author": "Hamza EL GARRAB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-hamza/e-hamza/issues"
+  },
+  "homepage": "https://github.com/e-hamza/e-hamza#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "mustache": "^4.2.0"
+  }
+}
