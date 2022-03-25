@@ -2,7 +2,7 @@
 
 <p>I'm Hamza, a Data Engineer / Data Scientist based in <b>Paris, France</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I am passionate about everything related to AI, Cloud and Distributed Systems!</p>
 
-<p>Here are the latest posts from my blog paperboat.dev:</p>
+<p>Here are the latest posts from my blog (paperboat.dev):</p>
 <ul>
   <li>
     <a href="https://paperboat.dev/article/farewell-pandas-koalas-is-here-to-stay-koalas-pandas-api-on-spark">
