@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643511447/50554/hello-dog.gif?1643511447" width="30"/> Hey there! </h1>
 
-<p>I'm Hamza, a Data Engineer / Data Scientist based in <b>Paris, France</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I am passionate about everything related to AI, Cloud and Distributed Systems!</p>
+<p>I'm Hamza, a Data Engineer / Data Scientist. I am passionate about everything related to AI, Cloud and Distributed Systems!</p>
 
 <p>Here are the latest posts from my blog [<a href="https://paperboat.dev">paperboat.dev</a>]:</p>
 <ul>
