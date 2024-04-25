@@ -5,6 +5,13 @@
 <p>Here are the latest posts from my blog [<a href="https://paperboat.dev">paperboat.dev</a>]:</p>
 <ul>
   <li>
+    <a href="https://www.paperboat.dev/article/01-running-scheduled-tasks-cron-jobs-on-aws-lambda-with-terraform">
+    <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
+    Running Scheduled Tasks (Cron Jobs) on AWS Lambda with Terraform</b></a>
+    <br/>
+    <i>AWS Lambda is one of the easiest to use and most popular AWS services. Lambda Functions can be used as API endpoints, Pipeline Tasks, or as we will see in this article: Scheduled jobs.</i>
+  </li>
+  <li>
     <a href="https://paperboat.dev/article/farewell-pandas-koalas-is-here-to-stay-koalas-pandas-api-on-spark">
     <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
     Farewell Pandas.. Koalas is here to stay! - Koalas: Pandas API on Spark</b></a>
